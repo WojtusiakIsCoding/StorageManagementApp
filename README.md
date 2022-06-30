@@ -1,0 +1,2 @@
+# StorageManagementApp
+Stock management app
