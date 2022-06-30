@@ -125,19 +125,5 @@ namespace Magazyn.Model
         }
 
 
-        //private void Item_PropertyChanged(object sender, PropertyChangedEventArgs e)
-        //{
-        //    switch (e.PropertyName)
-        //    {
-        //        case "Weight":
-        //            var x = 0;
-        //            foreach (Item element in ItemsList)
-        //            {
-        //                x += Decimal.ToInt32(element.Weight);
-        //            }
-        //            CurrentWeight = x;
-        //            break;
-        //    }
-
     }
 }
